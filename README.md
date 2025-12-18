@@ -17,9 +17,9 @@ The model predicts the **Gold Price (GLD)** based on the following indicators:
 - **Framework**: Streamlit (Web Interface)
 - **Machine Learning**: Scikit-learn (KNN Regressor / Pipeline)
 - **Data Manipulation**: Pandas, Numpy
-- **Visualization**: Plotly, Matplotlib, Seaborn## 🚀 Live Demo
+- **Visualization**: Plotly, Matplotlib, Seaborn
 
-## live Demo
+## 🚀 Live Demo
 https://huggingface.co/spaces/saiteja2001/Gold_Price_Prediction
 
 
