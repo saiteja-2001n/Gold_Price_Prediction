@@ -1,10 +1,12 @@
-
 # 🪙 Gold Price Prediction App
 
 This project aims to build a predictive model that accurately forecasts the Gold Price (GLD) using various financial indicators. The goal is to help investors and analysts make informed decisions by understanding the key drivers influencing gold price fluctuations.
 
 ## 🔍 Project Objective
 Gold is one of the most valuable and volatile commodities in the financial market. This app utilizes historical data and a regression model to predict the price of gold based on macroeconomic features.
+
+## 🚀 Live Demo
+https://huggingface.co/spaces/saiteja2001/Gold_Price_Prediction
 
 ## 📊 Features Used for Prediction
 The model predicts the **Gold Price (GLD)** based on the following indicators:
@@ -18,9 +20,6 @@ The model predicts the **Gold Price (GLD)** based on the following indicators:
 - **Machine Learning**: Scikit-learn (KNN Regressor / Pipeline)
 - **Data Manipulation**: Pandas, Numpy
 - **Visualization**: Plotly, Matplotlib, Seaborn
-
-## 🚀 Live Demo
-https://huggingface.co/spaces/saiteja2001/Gold_Price_Prediction
 
 ## 📁 Project Structure
 - gold.py: The main Streamlit application script.
