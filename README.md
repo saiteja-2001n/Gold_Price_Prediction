@@ -22,6 +22,15 @@ The model predicts the **Gold Price (GLD)** based on the following indicators:
 ## 🚀 Live Demo
 https://huggingface.co/spaces/saiteja2001/Gold_Price_Prediction
 
+## 📁 Project Structure
+- gold.py: The main Streamlit application script.
+- knn_gold1.pkl: The trained KNN regression model saved as a pickle file.
+- Regression-Gold.ipynb: Jupyter Notebook containing data cleaning, EDA, and model training logic.
+- requirements.txt: List of necessary Python libraries for deployment.
+
+## 📈 Model Information
+The model was trained on historical data, undergoing rigorous data cleaning (handling missing values, outliers, and duplicates) and univariate analysis. The final deployment uses a K-Nearest Neighbors (KNN) approach stored within a Scikit-learn pipeline for consistent preprocessing.
+
 
 
 
