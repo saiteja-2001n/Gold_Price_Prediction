@@ -1,14 +1,3 @@
-# Gold_Price_Prediction
----
-title: Gold Price Prediction
-emoji: 🪙
-colorFrom: yellow
-colorTo: orange
-sdk: streamlit
-python_version: 3.9
-app_file: gold.py
-pinned: false
----
 
 # 🪙 Gold Price Prediction App
 
