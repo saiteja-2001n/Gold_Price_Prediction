@@ -23,3 +23,5 @@ The model predicts the **Gold Price (GLD)** based on the following indicators:
 https://huggingface.co/spaces/saiteja2001/Gold_Price_Prediction
 
 
+
+
